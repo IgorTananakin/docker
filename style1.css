@@ -1,0 +1,66 @@
+.fon{background:url(photo/Bitmapbaner_1.jpg) no-repeat;
+
+
+height:500px;
+margin-top:100px;
+margin-left:100px;
+}
+.ocen{font-size:24px;
+font-family:"Times New Roman";
+
+margin-left:500px;
+}
+.image1{background:url(photo/Bitmap.jpg)no-repeat;}
+.rectangle{background:#fff ;
+position: absolute;
+margin-top:-100px;
+margin-left:-10px;
+opacity:0.6;
+-webkit-transform:rotate(-20deg);
+height:1000px;
+width:800px;
+
+}
+.reklama{height:500px;
+width:500px;
+margin-top:100px;
+margin-left:40px;
+position: relative;
+z-index:2;
+}
+/*.blok{position:relative;
+width:1000px;
+height:1000px;}*/
+.content{display:flex;
+justify-content:space-around;
+width: 1150px;
+margin-left: 100px;
+}
+.boot1{background:url(photo/Bitmapprod_1.jpg)no-repeat;
+height:150px;
+width:200px;
+}
+.boot2{background:url(photo/boot2.png)no-repeat;
+height:150px;
+width:200px;
+}
+.boot3{background:url(photo/boot3.png)no-repeat;
+height:150px;
+width:200px;
+}
+.boot4{background:url(photo/boot4.png)no-repeat;
+height:150px;
+width:200px;
+}
+.zagolovok{font-size:35px;}
+.name{font-size:24px;}
+.text{font-size:19px;}
+.button{
+background:url(photo/zakaz.png) no-repeat;
+width:202px;
+height: 52px;
+}
+
+.description{}
+.blok{position:relative;
+z-index:2;}
